@@ -148,7 +148,7 @@ plot.setBackgroundPaint(Color.WHITE);
         X_Axis_Label=" ";
         
         }else{
-        Chart_Title="Courses with the Lowest Attendance Persentage";
+        Chart_Title="Courses with the Lowest Attendance Percentage";
         X_Axis_Label=" ";
         }
         

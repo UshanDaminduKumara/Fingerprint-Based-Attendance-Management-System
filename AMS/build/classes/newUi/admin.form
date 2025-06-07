@@ -6,9 +6,6 @@
     <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
       <Color id="Default Cursor"/>
     </Property>
-    <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-      <Dimension value="[1600, 1000]"/>
-    </Property>
     <Property name="resizable" type="boolean" value="false"/>
   </Properties>
   <SyntheticProperties>
@@ -3020,13 +3017,11 @@
                                       <EmptySpace min="-2" pref="64" max="-2" attributes="0"/>
                                   </Group>
                               </Group>
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="jLabel39" min="-2" max="-2" attributes="0"/>
-                                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
-                                      <Component id="txtroomname3" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
-                                      <Component id="jButton4" alignment="3" min="-2" pref="53" max="-2" attributes="0"/>
-                                      <Component id="txtselectlel_idad4" alignment="3" min="-2" pref="53" max="-2" attributes="0"/>
-                                  </Group>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="txtroomname3" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+                                  <Component id="jButton4" alignment="3" min="-2" pref="53" max="-2" attributes="0"/>
+                                  <Component id="txtselectlel_idad4" alignment="3" min="-2" pref="53" max="-2" attributes="0"/>
+                                  <Component id="jLabel39" alignment="3" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <EmptySpace type="separate" max="-2" attributes="0"/>
                               <Component id="jPanel15" min="-2" pref="54" max="-2" attributes="0"/>
@@ -3335,12 +3330,12 @@
                                       </Group>
                                       <EmptySpace type="separate" max="-2" attributes="0"/>
                                       <Group type="103" groupAlignment="1" max="-2" attributes="0">
-                                          <Component id="jLabel42" alignment="1" min="-2" max="-2" attributes="0"/>
                                           <Group type="102" alignment="1" attributes="0">
                                               <Component id="txtlecname" max="32767" attributes="0"/>
                                               <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
                                           </Group>
                                           <Component id="jPanel13" alignment="0" min="-2" pref="54" max="-2" attributes="0"/>
+                                          <Component id="jLabel42" alignment="1" min="-2" pref="46" max="-2" attributes="0"/>
                                       </Group>
                                   </Group>
                                   <Group type="102" alignment="0" attributes="0">
@@ -3362,7 +3357,7 @@
                         <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                           <Color blue="66" green="66" red="0" type="rgb"/>
                         </Property>
-                        <Property name="text" type="java.lang.String" value="Add Lectures Id"/>
+                        <Property name="text" type="java.lang.String" value="Add Lecturer Id"/>
                       </Properties>
                     </Component>
                     <Component class="javax.swing.JTextField" name="txtlecid">
@@ -3432,7 +3427,7 @@
                         <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                           <Color blue="66" green="66" red="0" type="rgb"/>
                         </Property>
-                        <Property name="text" type="java.lang.String" value="Add Lectures Name"/>
+                        <Property name="text" type="java.lang.String" value="Add Lecturer Name"/>
                       </Properties>
                     </Component>
                     <Component class="javax.swing.JTextField" name="txtlecname">

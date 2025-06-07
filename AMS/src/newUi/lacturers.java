@@ -520,7 +520,7 @@ public void stddataload(String std){
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 48)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(0, 102, 102));
-        jLabel1.setText("Lacturers Details");
+        jLabel1.setText("Lecturer Details");
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(0, 102, 102));
@@ -528,7 +528,7 @@ public void stddataload(String std){
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(0, 102, 102));
-        jLabel3.setText("Lacturers No");
+        jLabel3.setText("Lecturer No");
 
         txtLid.setToolTipText("Enter");
         txtLid.addActionListener(new java.awt.event.ActionListener() {
