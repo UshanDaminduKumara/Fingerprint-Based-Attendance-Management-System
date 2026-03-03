@@ -107,6 +107,12 @@ This system replaces manual attendance processes with a fast, secure, and reliab
 - Automated report generation  
 
 ---
+## System Demo
+
+![Demo 1](assets/1.png)
+![Demo 2](assets/2.png)
+![Demo 3](assets/3.png)
+![Demo 4](assets/4.png)
 
 ## 📜 License
 
